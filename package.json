@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "@stdlib/assert-is-int16array": "^0.0.x",
-    "@stdlib/cli": "^0.0.x",
+    "@stdlib/cli-ctor": "^0.0.x",
     "@stdlib/constants-int16-max": "^0.0.x",
     "@stdlib/constants-int16-min": "^0.0.x",
     "@stdlib/fs-read-file": "^0.0.x"
