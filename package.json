@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-has-int16array-support",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Detect native Int16Array support.",
   "license": "Apache-2.0",
   "author": {
