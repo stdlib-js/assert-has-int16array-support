@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import hasInt16ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-int16array-support@esm/index.mjs';
+import hasInt16ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-int16array-support@v0.1.1-esm/index.mjs';
 ```
 
 #### hasInt16ArraySupport()
@@ -70,7 +70,7 @@ var bool = hasInt16ArraySupport();
 <body>
 <script type="module">
 
-import hasInt16ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-int16array-support@esm/index.mjs';
+import hasInt16ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-int16array-support@v0.1.1-esm/index.mjs';
 
 var bool = hasInt16ArraySupport();
 if ( bool ) {
