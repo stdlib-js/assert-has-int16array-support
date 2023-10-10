@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import hasInt16ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-int16array-support@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/assert-has-int16array-support/tags). For example,
+
+```javascript
 import hasInt16ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-int16array-support@v0.1.1-esm/index.mjs';
 ```
 
@@ -70,7 +75,7 @@ var bool = hasInt16ArraySupport();
 <body>
 <script type="module">
 
-import hasInt16ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-int16array-support@v0.1.1-esm/index.mjs';
+import hasInt16ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-int16array-support@esm/index.mjs';
 
 var bool = hasInt16ArraySupport();
 if ( bool ) {
